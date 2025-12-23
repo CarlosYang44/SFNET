@@ -1,0 +1,26 @@
+# Python version
+python==3.8
+
+# Core scientific stack
+numpy==1.19.5
+pandas==1.3.5
+matplotlib==3.3.4
+scipy==1.7.3
+
+# Machine learning
+scikit-learn==1.0.2
+node2vec==0.4.6
+networkx==2.8.8
+gensim==4.3.0
+
+# Deep learning (PyTorch + PyG)
+torch==1.13.1
+torch-geometric==2.3.0
+torch-scatter==2.1.1
+torch-sparse==0.6.17
+torch-cluster==1.6.1
+torch-spline-conv==1.2.2
+
+# Utilities
+rich==13.7.1
+tqdm==4.66.1
